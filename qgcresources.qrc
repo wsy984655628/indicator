@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rollDialWhite.svg</file>
+    </qresource>
+    <qresource prefix="/src">
+        <file>src/rollDialWhite.svg</file>
+        <file>rollDialWhite.svg</file>
+    </qresource>
+</RCC>

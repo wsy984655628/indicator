@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qmlimages">
+        <file>rollDialWhite.svg</file>
+        <file>rollPointerWhite.svg</file>
+        <file>crossHair.svg</file>
+    </qresource>
+</RCC>
